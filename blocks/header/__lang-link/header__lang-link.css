@@ -3,5 +3,12 @@
   text-decoration: none;
   font-weight: 400;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 96%;
+}
+
+@media (max-width: 768px) {
+  .header__lang-link{
+    font-size: 18px;
+    line-height: 92%;
+  }
 }
