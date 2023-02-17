@@ -7,5 +7,5 @@
 
 В дальнейшем планируется подключение интерактивных элементов с использованием JavaScript.
 
-[Ссылка на репозиторий в GitHub](https://github.com/yaroslav-patrikeev/russian-travel)
+[Ссылка на GitHub Pages](https://yaroslav-patrikeev.github.io/russian-travel/)
 
