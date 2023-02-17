@@ -4,3 +4,10 @@
   line-height: 22px;
   color: white;
 }
+
+@media (max-width: 767px) {
+  .places__link {
+    width: 288px;
+    margin: 0 auto;
+  }
+}

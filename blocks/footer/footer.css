@@ -6,3 +6,26 @@
   height: 18px;
   margin: 92px 0 24px;
 }
+
+@media (max-width: 1279px) {
+  .footer {
+    width: 928px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .footer {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer {
+    height: 100%;
+    margin: 64px 0 24px;
+    padding-left: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+}

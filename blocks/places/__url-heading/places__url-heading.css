@@ -7,3 +7,10 @@
   margin: 0 0 12px;
   color: #aaa;
 }
+
+@media (max-width: 767px) {
+  .places__url-heading {
+    width: 288px;
+    margin: 0 auto 12px;
+  }
+}

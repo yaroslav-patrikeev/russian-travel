@@ -1,5 +1,7 @@
 .cover__content {
-  margin: auto;
   display: flex;
   flex-direction: column;
+  color: white;
+  text-decoration: none;
+  margin: auto;
 }

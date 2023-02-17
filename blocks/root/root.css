@@ -6,4 +6,12 @@
   flex-direction: column;
   align-items: center;
   margin-top: 28px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (max-width: 767px) {
+  .root {
+    margin-top: 16px;
+  }
 }
