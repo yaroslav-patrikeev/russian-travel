@@ -7,3 +7,13 @@
   height: 200px;
   margin: 56px auto 0;
 }
+
+@media (max-width: 767px) {
+  .lead__title {
+    width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+    margin: 48px auto 0;
+    height: 88px;
+  }
+}
