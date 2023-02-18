@@ -3,8 +3,8 @@
   justify-content: space-between;
   align-items: center;
   min-width: 1184px;
-  height: 18px;
-  margin: 92px 0 24px;
+  min-height: 18px;
+  padding-bottom: 24px;
 }
 
 @media (max-width: 1279px) {
@@ -21,9 +21,7 @@
 
 @media (max-width: 767px) {
   .footer {
-    min-width: 320px;
-    margin: 64px 0 24px;
-    padding-left: 16px;
+    min-width: 100%;
     flex-direction: column;
     align-items: flex-start;
   }

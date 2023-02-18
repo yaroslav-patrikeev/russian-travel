@@ -22,7 +22,7 @@
 
 @media (max-width: 767px) {
   .places {
-    max-width: 320px;
+    width: 100%;
     margin: 64px 0 66px;
     row-gap: 50px;
   }
