@@ -3,4 +3,26 @@
   flex-direction: column;
   color: white;
   text-decoration: none;
+  width: 100%;
+  min-height: 740px;
+  justify-content: center;
+}
+
+@media (max-width: 1279px) {
+  .cover__content  {
+    width: 100%;
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .cover__content  {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 767px) {
+  .cover__content  {
+    min-height: 200px;
+  }
 }
