@@ -1,16 +1,16 @@
 .intro {
-  width: 984px;
+  max-width: 984px;
 }
 
 @media (max-width: 1279px) {
   .intro {
-    width: 928px;
+    max-width: 928px;
   }
 }
 
 @media (max-width: 1023px) {
   .intro {
-    width: 768px;
+    max-width: 768px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -19,6 +19,6 @@
 
 @media (max-width: 767px) {
   .intro {
-    width: 320px;
+    max-width: 320px;
   }
 }
