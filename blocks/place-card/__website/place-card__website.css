@@ -1,11 +1,11 @@
-.places__website {
+.place-card__website {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
 
 @media (max-width: 767px) {
-  .places__website {
+  .place-card__website {
     width: 288px;
   }
 }

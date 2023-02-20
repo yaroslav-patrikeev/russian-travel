@@ -1,6 +1,5 @@
 .header {
   min-width: 1184px;
-  height: 52px;
   display: flex;
   justify-content: space-between;
 }
@@ -20,6 +19,5 @@
 @media (max-width: 767px) {
   .header {
     min-width: 288px;
-    height: 42px;
   }
 }
